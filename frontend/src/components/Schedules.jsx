@@ -18,28 +18,28 @@ export default function Schedules() {
     day1: [
       {
         time: "08:00 - 10:00 AM",
-        speaker: "Jack Williams",
+        speaker: "Jankar Mahbub",
         role: "Founder & CEO",
         topic: "The WordPress Introduction",
         image: "/images/speakers/1.jpg",
       },
       {
         time: "12:00 - 14:00 PM",
-        speaker: "Rose Shipp",
+        speaker: "sundar pichai",
         role: "Founder & CEO",
         topic: "Getting Started With WordPress",
         image: "/images/speakers/2.jpg",
       },
       {
         time: "16:00 - 18:00 PM",
-        speaker: "Sophie Lane",
+        speaker: "Mr. Kaykobad",
         role: "Founder & CEO",
         topic: "Prepare Your Hosting & Domain",
         image: "/images/speakers/3.jpg",
       },
       {
         time: "20:00 - 22:00 PM",
-        speaker: "Evan Stone",
+        speaker: "Anisul Islam",
         role: "Founder & CEO",
         topic: "WordPress Theme Development Basic",
         image: "/images/speakers/4.jpg",
@@ -48,7 +48,7 @@ export default function Schedules() {
     day2: [
       {
         time: "09:00 - 11:00 AM",
-        speaker: "David Brown",
+        speaker: "Md Sazid",
         role: "Marketing Head",
         topic: "SEO Strategies for Beginners",
         image: "/images/speakers/5.jpg",
