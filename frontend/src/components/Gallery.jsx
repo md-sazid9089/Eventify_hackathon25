@@ -17,8 +17,8 @@ export default function Gallery() {
         <h2 className="text-3xl font-bold text-center mb-4">Gallery</h2>
         <div className="w-24 h-1 bg-gradient-to-r from-orange-500 to-pink-500 mx-auto mb-8"></div>
         <p className="text-center text-gray-600 max-w-2xl mx-auto mb-12">
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          A glimpse into the energy, creativity, and collaboration that define our
+          hackathons23.
         </p>
 
         {/* Gallery Grid */}

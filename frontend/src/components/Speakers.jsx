@@ -16,11 +16,11 @@ const speakers = [
     },
   },
   {
-    name: "Evan Stone",
+    name: "Sundar Pichai",
     role: "Founder & CEO",
     photo: "/images/speakers/2.jpg",
     description:
-      "Evan has over 15 years of leadership experience in technology and marketing, bringing disruptive ideas to life.",
+      "Sundar has over 15 years of leadership experience in technology and marketing, bringing disruptive ideas to life.",
     socials: {
       twitter: "#",
       linkedin: "#",
@@ -28,11 +28,11 @@ const speakers = [
     },
   },
   {
-    name: "Sarah Lee",
-    role: "Product Manager",
+    name: "Mr. Kaykobad",
+    role: "profeessor at buet",
     photo: "/images/speakers/3.jpg",
     description:
-      "Sarah specializes in building digital products that connect communities and empower small businesses.",
+      "Mr. Kaykobad is a seasoned academic and researcher with expertise in algorithms, data structures, and competitive programming.",
     socials: {
       twitter: "#",
       linkedin: "#",
@@ -40,11 +40,11 @@ const speakers = [
     },
   },
   {
-    name: "David Brown",
-    role: "Marketing Head",
+    name: "Anisul Islam",
+    role: "online teacher",
     photo: "/images/speakers/4.jpg",
     description:
-      "David is a marketing expert with a focus on growth strategies, branding, and scaling new ventures.",
+      "Anisul is a passionate educator and online instructor who has taught thousands of students in programming and web development.",
     socials: {
       twitter: "#",
       linkedin: "#",

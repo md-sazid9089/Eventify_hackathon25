@@ -35,13 +35,15 @@ export default function About() {
       {/* Title */}
       <div className="text-center mb-16 px-6">
         <h2 className="text-4xl font-bold text-gray-800">
-          How Invitex can help your startup to grow
+          How Hackathons can help to grow
         </h2>
         <div className="w-24 h-1 bg-gradient-to-r from-orange-500 to-pink-500 mx-auto mt-4 mb-6"></div>
         <p className="text-gray-600 max-w-3xl mx-auto">
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-          ab illo inventore veritatis et quasi architecto beatae vitae dicta.
+          Hackathons are intense, time-bound events where individuals or teams
+          collaborate to create innovative solutions, often in the form of
+          software or hardware projects. They provide a unique environment that
+          fosters creativity, learning, and networking. Here are some ways
+          hackathons can help you grow!
         </p>
       </div>
 

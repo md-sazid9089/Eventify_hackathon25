@@ -59,7 +59,7 @@ export default function LoginPage() {
                         bg-gradient-to-br from-pink-500 via-purple-600 to-violet-700 
                         text-white p-16">
           <h1 className="text-5xl font-extrabold mb-6 tracking-wide">
-            WELCOME <span className="text-red-400">TO</span> INVITEX
+            WELCOME <span className="text-red-400">TO</span> Eventify
           </h1>
           <p className="text-gray-200 text-lg text-center max-w-md">
             Sign in to continue.
@@ -80,7 +80,7 @@ export default function LoginPage() {
                 onClick={() => setRole("User")}
                 className={`px-8 py-3 rounded-full text-lg font-semibold transition ${
                   role === "User"
-                    ? "bg-red-600 text-white"
+                    ? "bg-pink-600 text-white"
                     : "bg-gray-200 text-gray-700"
                 }`}
               >
@@ -91,7 +91,7 @@ export default function LoginPage() {
                 onClick={() => setRole("Admin")}
                 className={`px-8 py-3 rounded-full text-lg font-semibold transition ${
                   role === "Admin"
-                    ? "bg-red-600 text-white"
+                    ? "bg-pink-600 text-white"
                     : "bg-gray-200 text-gray-700"
                 }`}
               >
@@ -116,12 +116,12 @@ export default function LoginPage() {
             />
 
             {/* Error */}
-            {error && <p className="text-red-600">{error}</p>}
+            {error && <p className="text-pink-600">{error}</p>}
 
             {/* Submit Button */}
             <button
               type="submit"
-              className="w-full py-4 text-lg bg-red-600 text-white rounded-lg font-semibold hover:bg-red-700 transition"
+              className="w-full py-4 text-lg bg-pink-600 text-white rounded-lg font-semibold hover:bg-pink-700 transition"
             >
               Login
             </button>

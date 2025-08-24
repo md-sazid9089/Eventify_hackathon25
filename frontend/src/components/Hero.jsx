@@ -28,11 +28,11 @@ export default function Hero() {
           transition={{ duration: 1 }}
           className="text-4xl sm:text-5xl md:text-7xl font-bold"
         >
-          Biggest Startup Conference
+          Biggest Hacakthon of the Year
         </motion.h1>
 
         <p className="mt-4 text-md sm:text-lg">
-          <i className="fa fa-calendar text-orange-500"></i> March 3rd - 7th — Palo Alto, California
+          <i className="fa fa-calendar text-orange-500"></i> March 2 - 10,2024   -Aust,Dhaka
         </p>
 
         {/* ✅ Smooth Scroll to Login Section */}
