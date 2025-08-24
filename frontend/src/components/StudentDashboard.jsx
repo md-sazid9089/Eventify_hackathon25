@@ -109,7 +109,7 @@ const StudentDashboard = () => {
   const [filterCategory, setFilterCategory] = useState('All');
   const [filterDate, setFilterDate] = useState('');
   const [sidebarOpen, setSidebarOpen] = useState(false);
-  const [studentName, setStudentName] = useState('John Doe'); // Mock student name
+  const [studentName, setStudentName] = useState('SAZID'); // Mock student name
 
   // Refs for animations
   const dashboardRef = useRef(null);
@@ -653,7 +653,7 @@ const navigate = useNavigate();
       {/* Desktop Header */}
       <header className="desktop-header">
         <div className="header-left">
-          <h1>Student Event Management Portal</h1>
+          <h1>Eventify</h1>
         </div>
         <div className="header-right">
           <span className="welcome-text">Welcome, {studentName}</span>
